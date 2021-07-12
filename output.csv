@@ -1,0 +1,267 @@
+0,1,2,3,4,5,6,7
+ ," BENZINA
+", ," BENZINA / GPL
+", ," DIESEL
+", , 
+ , , , , , , , 
+" MOTORE
+"," 1.6 16V 110
+", ," 1.6 16V 110
+"," 1.5 dCi 90 FAP
+", ," 1.5 dCi 110 FAP
+", 
+ ," 4x2
+"," 4x4
+"," 4x2
+"," 4x2 l 4x4
+", ," 4x2 l 4x4
+", 
+" Norma antinquinamento
+"," Euro S
+", , ," Euro S
+", , , 
+" Numero di posti
+"," 5 (4 posti in versione
+Autocarro Fiscale Europeo)
+", , , , ," 5 (4 posti in versione
+Autocarro Fiscale Europeo)
+", 
+" Tipo motore
+"," K4M
+", ," K4M
+"," KSK HP
+", ," K9K THP
+", 
+" Alimentazione aria motore
+"," Aspirato
+", ," Aspirato
+"," Turbocompressore a geometria variable
+", ," Turbocompressore a geometria variable |
+", 
+" Cilindrata (cm?)
+"," 1598
+", ," 1598
+"," 1461
+", , , 
+" Alesaggio x Corsa (mm)
+"," 79,5 x 80,5
+", ," 795x805
+"," 76x805
+", ," 76 x80,5
+", 
+" Numero di cilindri / valvole
+"," 4inlinea/16
+", ," 4in linea / 16
+"," 4inlinea/8
+", ," 4inlinea /8
+", 
+" Rapporto di compressione
+", , ," 98
+"," 15,7
+", , , 
+" Potenza massima kW CEE (cv DIN) /
+al Regime di (q/min)
+"," 77 (105) /5750
+", ," 77175
+(105 /102)/5750
+"," 66 (90) / 3750
+", ," 79 (107) / 4000
+"," 80 (109) / 4000
+"
+" Coppia massima Nm CEE Nm a (g/min)
+"," 148 (3750)
+", ," 148 / 144 (3750)
+"," 200 (1750)
+", ," 240 (1750)
+", 
+" Tipo diniezione
+"," Multipoint sequenziale
+", ," Multipoint sequenziale
+"," commor rail +iniezioni multiple
+", ," commor rail +iniezioni multiple
+", 
+" Carburante
+"," Benzina
+", ," Benzina
+"," Diesel
+", ," Diesel
+", 
+" Filtro antiparticolato
+"," np
+", , , , , , 
+" CAMBIO MECCANCIO (n° rez:2223i in avanti)
+   STERZO
+"," 5 marce | 6 marce | 5 marce
+ Servosterzo ad assistenza idraulica
+", , ," 5 marce | 6 marce
+ Servosterzo ad assistenza idraulica
+", ," 6 marce
+ Servosterzo ad assistenza idraulica
+", 
+" Diametro di sterzata tra marciapiedi /muri (m)
+"," 10,44/10,76
+", , ," 10,44 /10,76
+", ," 10,44/10,76
+", 
+" Anteriore
+"," Tipo Mac-Pherson con braccio inferiore rettangolare e barra antirallio
+", , ," Tipo Mac-Pherson con braccio inferiore
+fettangolare e barra antirollio
+", ," Tipo Mac-Pherson con braccio inferiore
+fettangolare e barra antirollio
+", 
+" Posteriore
+"," Assale flessibile
+a geometria
+programmata
+e molle elicoidali
+"," Multibracci
+tipo Mac-Pherson
+"," Assale flessibile
+ageometria
+programmata
+
+molle elicoidali
+"," Assale flessibile
+
+a geometria
+programmata _
+le elicoidali
+"," Multibracci
+tipo Mac-Pherson
+"," Assale flessibile
+a geometria
+programmata
+
+jolle elicoidali
+"," Multibracci
+tipo Mac-Pherson
+"
+" Cerchi di riferimento
+"," 6,5)16
+", , , , , , 
+" Pneumatici di riferimento
+"," 215/65 R16M+S
+", , ," 215/65R16M+S
+", ," 215/65 R16M+S
+", 
+" ABS Bosch 8.1
+", , , , , , , 
+" AFE
+"," Serie
+", , ," Serie
+", , , 
+" Ripartitore elettronico della Frenata
+"," Serie
+", , ," Serie
+", , , 
+" ESP
+"," -/ Opzione (a seconda deli livelli
+di equipaggiamento)
+
+np
+", , ," -/ Opzione (a seconda deli livelli
+di equipaggiamento)
+", ," -/ Opzione (a seconda deli livelli
+di equipaggiamento)
+", 
+" Anteriore: dischi ventilati (DV) @ (mm)
+"," OV 269
+", , ," Dv 280
+", ," Dv 280
+", 
+" Posteriore: Tamburi (T) / @ (pollici)
+"," g""
+", , ," g""
+", ," 9""
+", 
+" Velocita massima (Km/h)
+"," 167
+"," 160
+"," 165
+"," 156
+"," 158
+"," 171
+", 
+" 0-100 Kmvh (sec)
+"," 118
+"," 128
+"," 128
+"," 138
+"," 149
+"," 118
+"," 125
+"
+" 1000 m partenza da fermo (sec)
+", ," 346
+"," 34,5
+"," 356
+"," 36,5
+"," 339
+", 
+" CO2 (g/km)
+"," 165
+"," 185
+"," 167/146
+"," 130
+"," 139
+"," 139
+"," 145
+"
+" Ciclo urbano (partenza a Freddo) (l/100 km)
+"," 96
+"," 104
+"," 97/118
+"," 5,7
+"," 58
+"," 64
+"," 65
+"
+" Ciclo extraurbano (I/100 km)
+", , , , ," 52
+", ," 53
+"
+" Ciclo misto (I/100 km)
+"," 71
+", , ," 5,0
+"," 53
+"," 53
+"," 56
+"
+" A vuoto in ordine di marcia (kg)
+"," 1282
+"," 1371
+"," 1327
+"," 1319
+"," 1409
+"," 1328
+"," 1415
+"
+" Massima complessiva autorizzata (kg)
+"," 1710
+"," 1800
+"," 1750
+"," 1740
+"," 1838
+"," 1755
+"," 1844
+"
+" Carico utile (kg)
+"," 550 (525 per Autocarro 4x2)
+", ," 545
+"," 550
+", ," 550 (557 per Autocarro 4x2)
+", 
+" Massima con rimorchio non frenato (kg)
+"," 1200
+(divieto per autocarro)
+"," 1500
+(divieto per autocarro)
+"," 1100
+"," 1200
+"," 1500
+"," 1200
+(divieto per autocarro)
+"," 1500
+(divieto per autocarro)
+"
